@@ -15,10 +15,10 @@ export default {
       },
 
       backgroundImage: {
-        "main-desktop": "url('./src/assets/images/bg-main-desktop.png')",
-        "main-mobile": "url('./src/assets/images/bg-main-mobile.png')",
-        "front-card": "url('./src/assets/images/bg-card-front.png')",
-        "back-card": "url('./src/assets/images/bg-card-back.png')"
+        "main-desktop": "url('/assets/images/bg-main-desktop.png')",
+        "main-mobile": "url('/assets/images/bg-main-mobile.png')",
+        "front-card": "url('/assets/images/bg-card-front.png')",
+        "back-card": "url('/assets/images/bg-card-back.png')"
       },
 
       fontFamily: {

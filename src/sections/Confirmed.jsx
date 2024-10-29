@@ -1,5 +1,5 @@
 import PropTypes from 'prop-types'
-import complete from '../assets/images/icon-complete.svg'
+import complete from '/assets/images/icon-complete.svg'
 
 
 function Confirmed({resetForm}) {
